@@ -62,6 +62,6 @@
 <br>
 
 
-### Snake-Eating My Contribution Graph:🐍📈
+### Snake-Eating My Contribution:🐍📈
 
 <img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
