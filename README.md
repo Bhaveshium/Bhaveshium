@@ -1,6 +1,6 @@
 # Hi, I am Bhavesh Chaudhari! <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 <br>
- A passionate and enthusiastic developer<br>
+ A passionate and enthusiastic Data Scientist<br>
 <div align="center">
   <img height="200" src="https://yt3.ggpht.com/aZwOyRoTvmtZsAVxTiSc48ZUofoba60FiEMq9dHp0d4Nv2Do-pcZ6SOx354XPr7KXZfbo6DACgcaZQ=s600-c-fcrop64=1,00000000ffffffff-nd-v1" width= "350" align=right />
   
