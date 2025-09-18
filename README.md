@@ -6,7 +6,7 @@
   
 </div>
 - 👨‍🏭 I’m currently pursuing <b>MS in Data Science from Fergusson College</b> <br>
-- 🏫 I’m currently learning <b>Data Structures And Data Analysis</b> <br>
+- 🏫 I’m currently learning <b>Machine Learning & Deep Learning</b> <br>
 - 🙌 I’m looking to collaborate on <b> Projects</b> <br>
 - 🤔 I’m looking for help with <b>Model Training</b><br>
 - 🥅 Upcoming Goals: <b>Help enterprise to evaluate data and business needs</b> <br>
