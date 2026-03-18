@@ -84,7 +84,7 @@ MS Data Science with hands-on experience in large-scale data analytics, AI model
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 <br>
-### Snake-Eating My Contribution:🐍📈
+Snake-Eating My Contribution:🐍📈
 <img src="https://raw.githubusercontent.com/bhanupriya-art/bhanupriya-art/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
